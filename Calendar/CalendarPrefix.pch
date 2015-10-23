@@ -1,0 +1,19 @@
+//
+//  CalendarPrefix.pch
+//  Calendar
+//
+//  Created by Mazalova Ekaterina on 2/5/15.
+//  Copyright (c) 2015 Mazalova Ekaterina. All rights reserved.
+//
+
+#ifndef Calendar_CalendarPrefix_pch
+#define Calendar_CalendarPrefix_pch
+
+#ifdef __OBJC__
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#endif
+
+#import "MEConstants.h"
+
+#endif
